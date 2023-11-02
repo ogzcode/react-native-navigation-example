@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# Built output
+/build
+/dist
+
+# Logs
+/logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+/.idea
+/.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
